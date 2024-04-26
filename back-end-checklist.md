@@ -27,15 +27,15 @@
 - [ ] ใช้งาน MySQL
 - [ ] ใช้งาน PostgreSQL
 - [ ] ฐานข้อมูล NoSQL
-- [ ] ใช้งาน MongoDB
+- [x] ใช้งาน MongoDB
 
 ## การทํางานร่วมกับฝั่ง FRONT-END
 
 - [ ] การรองรับ AJAX หรือ Library Front-end
 - [ ] Web Services
 - [ ] การรับ ส่งข้อมูลจากฝั่ง Client
-- [ ] การทํางานร่วมกับ JavaScript Frameworks
-- [ ] พื้นฐาน HTML CSS และ JavaScript
+- [x] การทํางานร่วมกับ JavaScript Frameworks
+- [x] พื้นฐาน HTML CSS และ JavaScript
 
 ## การพัฒนา RESTFUL API
 
