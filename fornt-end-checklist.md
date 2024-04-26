@@ -14,17 +14,17 @@
 
 ## HTML/CSS
 
-- [ ] HTML พื้นฐาน
-- [ ] CSS พื้นฐาน
-- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
-- [ ] การจัดการกับฟอร์ม และ Validation
-- [ ] Responsive Design และ Media Querie
+- [x] HTML พื้นฐาน
+- [x] CSS พื้นฐาน
+- [x] จัดการ Layouts ของ CSS Grid, Flexbox
+- [x] การจัดการกับฟอร์ม และ Validation
+- [x] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
 - [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
-- [ ] JavaScript พื้นฐาน
+- [x] JavaScript พื้นฐาน
 - [ ] AJAX, Fetch API และ Axios
 - [ ] JSON/XML
 
@@ -33,14 +33,14 @@
 - [ ] State Management: Redux, MobX, Vuex
 - [ ] Build Tools & Runne
 - [ ] TypeScript
-- [ ] React.js
+- [x] React.js
 - [ ] Anugular
 - [ ] Vue.js
 
 ## Version Control
 
 - [ ] Git
-- [ ] GitHub
+- [x] GitHub
 - [ ] GitLab
 
 ## การทำงานกับ API
@@ -67,8 +67,8 @@
 - [ ] CSS Architecture (BEM)
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
-- [ ] Tailwind
-- [ ] Bootstrap
+- [x] Tailwind
+- [x] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
